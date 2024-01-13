@@ -1,2 +1,2 @@
-# web-programing
-yaral
+# Web
+클라이언트 디자인
